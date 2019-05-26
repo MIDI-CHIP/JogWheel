@@ -1,2 +1,0 @@
-# JogWheel
-Jog Wheel Decoder
